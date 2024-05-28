@@ -11,7 +11,7 @@ currency-exchange-service
 
 naming-server
 
-- Eureka，包含**Spring Cloud LoadBalancer，**負責註冊服務及負載平衡
+- Eureka，包含Spring Cloud LoadBalancer，負責註冊服務及負載平衡
 
 
 Limits Service
